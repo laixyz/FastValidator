@@ -27,7 +27,7 @@ FastValidator::Validator("laixyz", ['rule' => 'email']);
 ```json
 {
     "ok": false,
-    "error": "All of the required rules must pass for \"\"",
+    "error": "All of the required rules must pass for \"laixyz\"",
     "val": ""
 }
 ```
