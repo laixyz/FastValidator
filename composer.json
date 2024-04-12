@@ -1,0 +1,16 @@
+{
+    "name": "laixyz/fast-validator",
+    "description": "The php Validation classes are based on Respect\\Validation",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laixyz\\FastValidator\\": "src/"
+        }
+    },
+    "require": {
+        "respect/validation": "^2.3"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
